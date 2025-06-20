@@ -1,1 +1,2 @@
-# Uas-Manajemen-basis-data
+Irfan Jayadi
+Nim D0222322
